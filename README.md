@@ -69,7 +69,7 @@ Coleção de exercícios resolvidos da **Olimpíada Brasileira de Informática (
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimagals&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimagals&layout=compact&bg_color=00000000)
 
 ---
 
