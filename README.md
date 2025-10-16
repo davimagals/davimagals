@@ -11,8 +11,8 @@
 Sou apaixonado por **programação web e embarcada** — gosto tanto de criar interfaces modernas quanto de ver um circuito ganhar vida.  
 Busco unir **tecnologia, ensino e experimentação** em tudo o que faço.
 
-Tenho experiência legada com **PHP**, **Angular**, **Quasar**, **Bootstrap** e **AdminLTE**,  
-e atualmente foco em **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **Next.js**, **TailwindCSS** e **Shadcn/UI**.
+Tenho experiência legada com **PHP**, **Jquery**, **Angular**, **Quasar**, **Bootstrap** e **AdminLTE**,  
+e atualmente foco em **Next.js**, **TailwindCSS** e **Shadcn/UI**.
 
 No universo embarcado, costumo trabalhar com **C++** e **Python** em projetos com **Arduino** e **Raspberry Pi**.
 
@@ -28,8 +28,8 @@ e atualmente curso **Formação Pedagógica em Matemática** — porque ensinar 
 🔒 **Segurança de Redes de Computadores** — Especialização  
 📘 **Formação Pedagógica em Matemática** — em andamento  
 🦺 **Engenharia de Segurança do Trabalho** — especialização em andamento  
-🧪 **Técnico em Química**  
 🍺 **Especialização em Cervejaria** — Escola Superior de Cerveja e Malte (Blumenau/SC)
+🧪 **Técnico em Química** — em andamento
 
 > A curiosidade e o aprendizado constante me guiaram tanto na engenharia de software quanto nas ciências e na arte da cerveja. Tudo é química, lógica e criatividade. 🍻
 
