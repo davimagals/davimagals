@@ -60,7 +60,7 @@ e atualmente curso **Formação Pedagógica em Matemática** — porque ensinar 
 ## 🌟 Repositórios em Destaque
 
 📘 **[computer-teaching](https://github.com/davimagals/computer-teaching)**  
-Material didático completo desenvolvido como professor de Informática — com aulas, exemplos, atividades e projetos sobre desenvolvimento web, lógica de programação e sistemas embarcados.
+Material didático completo desenvolvido como professor de Informática, para as disciplinas dos cursos técnicos em Desenvolvimento de Sistemas e Redes de Computadores — com aulas, exemplos, atividades, projetos e provas.
 
 🏅 **[practicing-obi](https://github.com/davimagals/practicing-obi)**  
 Coleção de exercícios resolvidos da **Olimpíada Brasileira de Informática (OBI)** — voltado a alunos e entusiastas que desejam praticar lógica e algoritmos.
