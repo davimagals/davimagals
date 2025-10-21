@@ -26,9 +26,9 @@ e atualmente curso **Formação Pedagógica em Matemática** — porque ensinar 
 🎓 **Engenharia de Software** — Universidade Federal do Ceará (UFC)  
 💼 **Análise e Desenvolvimento de Sistemas** — Especialização  
 🔒 **Segurança de Redes de Computadores** — Especialização  
+🍺 **Especialização em Cervejaria** — Escola Superior de Cerveja e Malte (Blumenau/SC)  
 📘 **Formação Pedagógica em Matemática** — em andamento  
 🦺 **Engenharia de Segurança do Trabalho** — especialização em andamento  
-🍺 **Especialização em Cervejaria** — Escola Superior de Cerveja e Malte (Blumenau/SC)
 🧪 **Técnico em Química** — em andamento
 
 > A curiosidade e o aprendizado constante me guiaram tanto na engenharia de software quanto nas ciências e na arte da cerveja. Tudo é química, lógica e criatividade. 🍻
